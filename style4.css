@@ -31,8 +31,13 @@
 } 
 .D{
     width: 10%;
-    
-    
+    height: 200px;
+    border:  1px solid black;
+    margin-left: 600px;  
+    display:  flex;
+    justify-content: center;
+    align-items: center;  
+    margin-top:0px;
     }
 .E{
     width: 10%;
